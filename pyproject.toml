@@ -1,0 +1,13 @@
+[project]
+name = "ecg-mechinterp"
+version = "0.1.0"
+description = "Mechanistic interpretability of ECG foundation models: shared representations, SAE feature/subspace stability, and demographic-pathway bias, across PTB-XL and PTB-DB"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

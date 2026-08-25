@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+build/
+dist/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data — fetched via scripts/download_*.sh, not committed
+data/raw/
+data/processed/
+data/*.npz
+*.dat
+*.hea
+*.h5
+*.npz
+
+# Pretrained weights — fetched via scripts/setup_*.sh, not committed
+weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Cloned external model source — fetched via scripts/setup_*.sh, not ours to vendor/commit
+external/
+
+# Run outputs
+results/
+cache/
+outputs/
+runs/
+wandb/
+*.log
+
+# OS / editor
+.DS_Store
+*.swp
