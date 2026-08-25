@@ -1,3 +1,7 @@
+# Claude Code project config (kept local only, never part of this repo)
+.claude/
+CLAUDE.md
+
 # Python
 __pycache__/
 *.py[cod]
