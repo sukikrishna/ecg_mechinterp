@@ -1,0 +1,6 @@
+encoder,layer,method,k,expansion,seed,d_in,fvu,l0,dead_frac,d_hidden
+clef_m,stage_list.4,topk,32,4,0,400,0.0355,32.0,0.0025,1600
+clef_m,stage_list.4,topk,32,4,1,400,0.0324,32.0,0.0031,1600
+clef_m,stage_list.4,topk,32,4,2,400,0.0365,32.0,0.0031,1600
+clef_m,stage_list.4,topk,32,4,3,400,0.054,32.0,0.0044,1600
+clef_m,stage_list.4,topk,32,4,4,400,0.0335,32.0,0.0094,1600

@@ -1,0 +1,8 @@
+kind,a,b,rank,overlap
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,1,0.004
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,2,0.01
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,4,0.024
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,8,0.037
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,16,0.048
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,32,0.072
+within_encoder_data_split,ecgfounder_1lead,ecgfounder_1lead,64,0.085

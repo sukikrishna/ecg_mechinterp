@@ -1,0 +1,8 @@
+kind,a,b,rank,overlap
+within_encoder_data_split,clef_m,clef_m,1,0.0
+within_encoder_data_split,clef_m,clef_m,2,0.0
+within_encoder_data_split,clef_m,clef_m,4,0.013
+within_encoder_data_split,clef_m,clef_m,8,0.016
+within_encoder_data_split,clef_m,clef_m,16,0.021
+within_encoder_data_split,clef_m,clef_m,32,0.029
+within_encoder_data_split,clef_m,clef_m,64,0.036

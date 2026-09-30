@@ -1,0 +1,10 @@
+depth,concept,a,b,cka
+0.5,is_mi,ecgfounder_1lead,clef_m,0.021
+0.5,is_mi,ecgfounder_1lead,clef_m_rand,0.021
+0.5,is_mi,clef_m,clef_m_rand,0.651
+0.75,is_mi,ecgfounder_1lead,clef_m,0.038
+0.75,is_mi,ecgfounder_1lead,clef_m_rand,0.093
+0.75,is_mi,clef_m,clef_m_rand,0.007
+1.0,is_mi,ecgfounder_1lead,clef_m,0.023
+1.0,is_mi,ecgfounder_1lead,clef_m_rand,0.248
+1.0,is_mi,clef_m,clef_m_rand,0.001

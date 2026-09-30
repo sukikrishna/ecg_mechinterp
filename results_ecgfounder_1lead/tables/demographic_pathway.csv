@@ -1,0 +1,5 @@
+ablated,measured_on,delta_score,signed_delta,auroc_base,auroc_ablated,auroc_drop
+ablate_top_features,sex_male,5.7188,-5.7028,0.6449,0.7252,-0.0803
+ablate_top_features,is_mi,2.5296,2.1323,0.7163,0.7214,-0.0051
+ablate_density_matched_control,sex_male,0.8367,-0.5244,0.6449,0.6342,0.0107
+ablate_density_matched_control,is_mi,0.8787,0.4841,0.7163,0.7099,0.0063

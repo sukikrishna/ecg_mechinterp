@@ -1,0 +1,2 @@
+encoder,layer,dict_mmcs,dict_mmcs_null,dict_mmcs_adj,act_mmcs,n_pairs
+clef_m,stage_list.4,0.535,0.168,0.368,0.399,10

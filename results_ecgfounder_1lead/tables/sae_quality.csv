@@ -1,0 +1,6 @@
+encoder,layer,method,k,expansion,seed,d_in,fvu,l0,dead_frac,d_hidden
+ecgfounder_1lead,stage_list.4,topk,32,4,0,400,0.188,32.0,0.0,1600
+ecgfounder_1lead,stage_list.4,topk,32,4,1,400,0.1896,32.0,0.0,1600
+ecgfounder_1lead,stage_list.4,topk,32,4,2,400,0.1873,32.0,0.0,1600
+ecgfounder_1lead,stage_list.4,topk,32,4,3,400,0.1891,32.0,0.0,1600
+ecgfounder_1lead,stage_list.4,topk,32,4,4,400,0.188,32.0,0.0,1600

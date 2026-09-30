@@ -1,0 +1,2 @@
+encoder,layer,dict_mmcs,dict_mmcs_null,dict_mmcs_adj,act_mmcs,n_pairs
+ecgfounder_1lead,stage_list.4,0.474,0.168,0.306,0.326,10
